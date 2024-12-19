@@ -1,4 +1,4 @@
-# Welcome to My DevOps Portfolio ⚙️
+# Welcome to Mai Hanafi Portfolio ⚙️
 
 Hi, I'm Mai Mohamed Hanafi, a DevOps Engineer and IT Operations professional specializing in creating automated, scalable, and reliable systems.
 
