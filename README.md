@@ -33,8 +33,10 @@
   <p>
     <a href="https://www.linkedin.com/in/mai-mohamed-hanafi-388b131b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white"></a>
     <a href="https://github.com/MaiMHanafi" target="_blank"><img src="https://img.shields.io/badge/-GitHub-222222?style=flat-square&logo=github&logoColor=white"></a>
+    <a href="mailto:maihanafi34@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-222222?style=flat-square&logo=gmail&logoColor=white"></a>
   </p>
 </br>
+
 
 <h3 align="left">▶ Languages and Tools:</h3>
 <p style="display: inline-block;" align="center">
@@ -93,7 +95,3 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MaiMHanafi&theme=github-dark-blue" />
 </p>
 
-
-## 📬 Contact Me
-- Email: [maihanafi34@gmail.com](mailto:maihanafi34@gmail.com)
-- LinkedIn: [linkedin.com/in/mai-mohamed-hanafi](https://linkedin.com/in/mai-mohamed-hanafi)
